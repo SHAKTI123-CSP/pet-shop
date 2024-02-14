@@ -1,0 +1,26 @@
+ *{
+    padding: 0;
+    margin: 0;
+ }
+ /* li{
+    display: inline-flex;
+    padding: 5px;
+    color: rgb(15, 15, 15);
+    
+} */
+/* .navbar{
+    background-color: rgb(238, 238, 238);
+    height: 53px;
+    
+} */
+.mid{
+    padding-top: 70px;
+}
+.mid h1{
+    font-weight: 800;
+    font-family:'Arial Narrow Bold';
+}
+/* .nav-item{
+    z-index: 1;
+    background-color: rgb(238, 238, 238);
+} */
